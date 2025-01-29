@@ -27,6 +27,7 @@ def get_weather(city: str) -> str:
             f"Облачность {clouds} %\n"
             f"Влажность {humidity} %\n")
 
+
 def get_weather_icon(weather_condition: str) -> str:
     """Функция принимает параметр weather_condition (погодные условия)
     и возвращает эмодзи, соответствующий условиям"""
