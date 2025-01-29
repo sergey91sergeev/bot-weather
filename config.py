@@ -1,4 +1,0 @@
-"""test_user_urb_bot"""
-
-TOKEN = "8161335722:AAFp5JMQZItoENSI3LKBQ1DCeQtZdtxTftU"
-API_KEY = "44bf58fcab604d48c282e95cb30a4a6f"
